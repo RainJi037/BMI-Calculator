@@ -1,0 +1,5 @@
+{
+  "name": "VitalMetric BMI Pro",
+  "description": "A professional-grade BMI calculator providing accurate health metrics, personalized insights using Gemini AI, and visual progress tracking.",
+  "requestFramePermissions": []
+}
